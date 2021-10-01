@@ -1,0 +1,4 @@
+Dockerfile
+cronjob.yaml
+.dockerignore
+.gitignore

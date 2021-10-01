@@ -1,0 +1,128 @@
+{
+    "seginfo": {
+        "conf": {
+            "emoji": ":mr_robot:",
+            "username": "Secure Information Tips",
+            "color": "#880808",
+            "info" : {
+                "source": "https://olhardigital.com.br/2016/07/06/seguranca/as-6-licoes-de-seguranca-deixadas-pelo-seriado-mr-robot/",
+                "description":"Lições de segurança deixadas pelo seriado Mr. Robot"
+            }
+        },
+        "messages": {
+            "Sobre o seriado": [
+                "O cibercrime normalmente é algo com os quais a maioria das pessoas não se preocupam até se tornarem vítimas dele. No entanto, algo pode ter mudado no último ano graças a uma série de TV: Mr. Robot. O seriado americano altamente premiado se popularizou rapidamente até entre quem não é muito familiarizado com tecnologia e deu a muitos a primeira percepção de quão danoso pode ser o crime digital.",
+                "Para quem ainda não assistiu (primeiro de tudo, a recomendação é para que você assista), o seriado gira em torno de um hacker que trabalha em uma empresa gigante de tecnologia mas acaba se juntando a um grupo de hacktivistas, a fsociety para organizar um mega-ataque capaz de abalar as estruturas do mundo moderno. No meio da trama, é possível observar mais detalhes sobre como se desenvolvem ataques do tipo e técnicas comuns usadas nestes casos, sempre com a consultoria de verdadeiros especialistas em segurança para assegurar de que a série se mantenha sempre o mais realista possível.",
+                "Ao mesmo tempo em que a série é ameaçadora e pode te deixar levemente paranoico em relação à sua própria segurança online, ela também serve para se precaver contra estes métodos mais comuns de ataque."
+            ],
+            "Não se exponha em redes sociais": [
+                "O hacker-protagonista Elliot Alderson frequentemente se aproveita da falta de filtro do que as pessoas publicam em seus perfis em redes sociais. Basta uma olhadinha no perfil do Facebook de sua nova vítima para ter uma ideia de seus gostos e informações bastante íntimas que podem ajudar a concretizar com sucesso um ataque.",
+                "Pessoas frequentemente usam suas datas de nascimento ou datas importantes como aniversário de casamento, nomes de animais de estimação e alguns gostos específicos. Se este tipo de informação é facilmente acessível com uma olhadinha no seu Twitter, o cibercriminoso não vai demorar muito para descobrir a senha. O que nos leva também à dica número 2…"
+            ],
+            "Crie senhas fortes":[
+                "Senhas são seu primeiro nível de segurança contra um ataque digital. Ao usar palavras-chave como “123456” ou outra coisa do nível por ser fácil de lembrar, é a mesma coisa que deixar a porta aberta para um hacker. Como dito no item acima, recorrer a informações que podem ser facilmente descobertas sobre você com uma olhada em seus perfis online também não é uma boa ideia.",
+                "Hackers como Elliot usam softwares que bombardeiam os servidores de algum serviço com múltiplas tentativas de senha assim que obtém o nome de usuário. Esse tipo de ataque se chama de “força bruta”. Normalmente, estes softwares são programados para tentar primeiro as senhas mais fáceis e comuns antes de começarem a avançar para as mais complexas. Se a sua senha for do nível 123456, ela será quebrada em alguns segundos.",                
+                "Use senhas longas e aleatórias, intercalando símbolos, números, letras maiúsculas e minúsculas. Se a ideia de ter um gerenciador de senhas não agrada, pelo menos use uma “frase-chave” em vez de uma palavra-chave. Una três ou quatro palavras sem nenhuma ligação uma com a outra, mas que são facilmente memorizáveis e use espaços entre elas. Uma senha como “Chocolate Relógio Grampo Cavalo 1822” pode não ser perfeita mas já é bem melhor do que o “totó28”."
+            ],
+            "Uma senha não é o bastante":[
+                "Viu o item acima? Não é o bastante para te proteger. Por mais que sua senha seja forte, ela não está imune a um ataque paciente de força bruta. Pode levar mais tempo, mas o fato é que qualquer senha é quebrável por um hacker experiente como os que se mostram no seriado.",
+                "Assim, sempre que possível, use autenticação em duas etapas. Sistemas que enviam um código por meio do celular são preferíveis, embora nem eles sejam totalmente imunes"
+            ],
+            "Desconfie":[
+                "O desconfiômetro é o inimigo número 1 de um cibercriminoso. No seriado, Elliot consegue driblar vários sistemas de segurança usando o que chamamos de engenharia social. Trata-se de um método de ataque que consiste em, basicamente, pedir para que as pessoas revelem suas informações de um modo que elas não se sintam ameaçadas. Não há vulnerabilidade tecnológica a ser explorada, apenas a psicologia humana.",
+                "Estas informações podem ser usadas para driblar perguntas de segurança, que são um sistema muito comum de segurança complementar às senhas, ou então para obter a própria senha da vítima.",
+                "Quando alguém que diz ser funcionário de um banco, ou qualquer outra instituição, entrar em contato para “confirmar” informações, jamais as dê logo de cara. Faça o caminho inverso; a pessoa do outro lado deve revelar as informações que ela tem no banco de dados e só então você deve confirmar."
+            ],
+            "Jamais conecte um pendrive que você achou na rua ao seu computador":[
+                "Se você achou um pendrive na rua, deixe lá. Se alguém te vendeu um CD, DVD ou Blu-Ray na rua, mantenha-o bem longe do seu computador. O seriado deixa bem claro o estrago que pode ser feito no PC ao conectar um dispositivo de armazenamento desconhecido.",
+                "Se você comprou um disco de um artista de rua ou um camelô, reproduza-o apenas em aparelhos como um CD player. Pendrives não devem ser pegos do chão em hipótese alguma; use apenas que você mesmo comprou lacrado em uma loja.",
+                "Estes dispositivos de armazenamento podem ser programados para agir imediatamente quando são plugados a um computador, o que é conhecido como “autorun”. Se o seu sistema operacional não está configurado para desabilitar o autorun, o simples ato de conectar estes dispositivos pode infectá-lo para roubar informações pessoais e bancárias. Caso o computador seja parte de uma rede de uma empresa, o estrago pode ser enorme."
+            ],
+            "Cubra sua webcam":[
+                "Essa é uma dica que até Mark Zuckerberg já adotou. Uma das personagens na série tem o computador invadido e não demora muito para que a webcam se torne uma arma poderosíssima de chantagem, uma vez que foi usada para capturar imagens dela nua.",
+                "É um tipo de ataque extremamente simples de realizar uma vez que um computador seja infectado. Felizmente, também é um tipo de ataque extremamente simples de evitar. Uma fita adesiva sobre a câmera impede que as imagens sejam roubadas."
+            ]
+        }
+    },
+    "agile": {
+        "conf": {
+            "emoji": ":sparkles:",
+            "username": "Agile Tips Tricks",
+            "color": "#03fcfc",
+            "info" : {
+                "source": "https://www.metodoagil.com/caracteristicas-do-desenvolvimento-agil",
+                "description":"As principais características do Desenvolvimento Ágil"
+            }
+        },
+        "messages": {
+            "Ter o envolvimento real do usuário final": [
+                "Se você tem utiliza qualquer método ágil, seja ele Scrum, Kanban ou Lean Startup, o seu usuário final deve estar envolvido. Afinal de contas é pra ele que você e seu time estão trabalhando, concorda?",
+                "Eu sei, é quase impossível ter ele presente no dia-a-dia. Assim ter um representante fiel, com autonomia, conhecedor do mercado e das necessidades dos usuários, vai ser NECESSÁRIO.",
+                "Ter o cliente ou usuário final envolvido de verdade no processo é para mim uma das principais características do desenvolvimento ágil."
+            ],
+            "Time de Desenvolvimento deve ser Empoderado": [
+                "Um time de desenvolvimento ágil deve ser capaz superar qualquer desafio que venha a surgir. Mas para isso devemos dar ao time todas condições e conhecimentos necessário para tal desafio.",
+                "Ter um time empoderado é essencial para o sucesso de qualquer aplicação ágil. Um time de desenvolvimento DEVE ser capaz de tomar as suas decisões e essas devem ser respeitadas. Vou tentar sem claro: Se seu time estimou, acredite. Se seu time definiu a solução técnica, confie.",
+                "O time é o CORAÇÃO de qualquer método ágil, é ele que vai ser capaz de aprender a como fazer da melhor maneira, é ele, que vai evoluir continuamente através dos erros cometidos e lições aprendidas.",
+                "Resumindo, seu time precisa “apenas” de um objetivo e de ter capacidade de chegar lá. O caminho ele vai descobrir enquanto percorre. E a cada vez que qualquer gestor tentar interferir, na verdade ele está é tirando o foco do seu time.",
+                "O time deve ser e se sentir empoderado, assim você está dando um passo grande na direção correta."
+            ],
+            "Entregue pouco, mas entregue sempre": [
+                "Como se come um elefante? Pedaço a pedaço. Simples assim.",
+                "No desenvolvimento ágil ter entregas frequentes é vital para o sucesso do projeto ou produto. É através de entregas frequentes que vai existir feedback e através dele as correções assertivas de rota.",
+                "Quanto falamos de entregar com frequência, não estamos falamos de estocar software pronto para homologação e sim de entregar para seu usuário final experimentar o que foi feito.",
+                "Eu sei que é entregar a todo momento é um grande complicador. Então, se organize e MINIMIZE o tempo que algo fica em desenvolvimento, organizar pequenas releases pode ser uma boa saída. Mas, cuidado, não exagere no tamanho das releases."
+            ],
+            "Uma peça de cada vez": [
+                "Se existe uma característica do desenvolvimento ágil é o FOCO. E essa deve ser um característica do seu time também.",
+                "Em outras palavras, tudo que ele começa deve ser terminado, antes que outra atividade se inicie. Se você acha que estou falando das atividades do sprint, você acertou.",
+                "Comece a terminar e pare de começar",
+                "Essa é uma característica que vai fazer a diferença no seu dia-a-dia, assim como no do seu time. Porque é onde se trabalha focado em ter progresso. E progresso em métodos ágeis é software/produto PRONTO.",
+                "Pode parece bobagem, mas fazer uma peça de cada vez é algo que POUCOS times fazem e é um comportamento que é muito pouco fomentado pelo líderes e gestores.",
+                "Eu penso assim, se um time não atua junto nos mesmos itens, porque chama-los de time?",
+                "Obviamente, em alguns momento iremos ter atividades em paralelo, mas um das características do desenvolvimento ágil é reduzir o número de atividades em progresso."
+            ],
+            "Seja SIMPLES": [
+                "Já ouviu falar sobre o Principio de Pareto? Ela afirma que, para muitos eventos, aproximadamente 80% dos efeitos vêm de 20% das causas. Ou seja, se levarmos para o desenvolvimento ágil, podemos afirmar que 80% do resultado (valor) vem de 20% do esforço.",
+                "Já parou pra pensar nisso? Que 80% do resultado vai vir de 20% do esforço. Para exemplificar isso, vou contar uma pequena história.",
+                "Algum tempo atras, eu era Scrum Master de um projeto, e em um determinado momento o cliente queria uma funcionalidade de pesquisa de cliente por estado. Lembro bem que quando ele foi apresentar para o PO as suas ideias a primeira história que existia era: Cadastro e Edição de Estados.",
+                "Bom, pare pra pensar, porque Cadastro e Edição de Estados? Será que o Brasil sofre alterações assim a ponto de ser necessário um CRUD de estados?",
+                "Perceba que esse é um exemplo clássico de que ser simples vai ser um diferencial. Nesse caso dos estados, nos acabamos fazendo uma tabela simples no BD para ter os estados, algo bem mais simples. Que poderia ser ainda mais simples, como um JSON por exemplo.",
+                "Enfim, o que você precisa entender que é, ser SIMPLES é o que vai impulsionar os resultados de um projeto ou produto. Nos gostamos de inventar muito, de criar soluções mirabolantes, enquanto na verdade o valor estar em ser simples e entregar valor.",
+                "Logo, uma das principais características do desenvolvimento ágil é prover soluções SIMPLES."
+            ],
+            "Tenha Qualidade no que faz": [
+                "Tem uma frase que diz: Teste cedo e sempre.",
+                "Esse deve ser o lema de qualquer time ágil, devemos SEMPRE garantir a qualidade. Caso contrário você e seu time não irão sobreviver muito tempo.",
+                "Resumindo, um time ágil deve pensar em qualidade o tempo todo. Ou seja, ao fazer um código, ele deve ser feito com qualidade, ao escrever um estória, ela deve ser feita com qualidade e até mesmo ao desenvolver um teste.",
+                "A caraterística que seu time deve ter aqui é: Garantir sempre a qualidade e o sempre é sempre mesmo."
+            ],
+            "Melhore continuamente e sempre": [
+                "Melhoria contínua é fazer hoje melhor do que ontem, mesmo que hoje tenha sido melhor do que ontem.",
+                "É exatamente esse o pensamento que qualquer time ágil deve ter, sempre melhorar. Quando falamos de melhoria contínua, no fundo estamos falando sobre ser inquieto e estar sempre buscando oportunidades de melhoria.",
+                "Existe um problema em times que alcançam o sucesso, que é, cair de rendimento. Isso acontece por que o time se acomoda e para de evoluir. Times ágeis devem ser o contrário, nunca estão 100% satisfeitos e sempre vão atras de melhorar, em qualquer aspecto.",
+                "Sem dúvida uma das principais características do desenvolvimento ágil é a melhoria contínua."
+            ],
+            "Viva com métricas": [
+                "Um dos pilares do scrum é a inspeção, eu particularmente não o considero só do Scrum, considero de qualquer método ágil.",
+                "Inspecionar é necessário em qualquer processo de melhoria contínua e as métricas vão criar a oportunidade da inspeção.",
+                "Logo, tenha métricas, mas métricas que agreguem valor ao seu processo e principalmente ao seu time.",
+                "Eu gosto de comparar um time sem métrica, com um carro sem farol em uma estrada a noite, ele pode até chegar no objetivo, mas com certeza irá encontrar muito mais buracos na pista."
+            ],
+            "Automatize as coisas chatas": [
+                "Existe uma verdade no desenvolvimento de software, que é: São nas tarefas mais simples e chatas que acontecem os maiores problemas.",
+                "Por isso, seu time deve ser capaz de automatizar tudo que julgar necessário. Até porque ninguém merece, ficar fazendo teste de regressão de 893 itens ao final de cada incremento de produto pronto.",
+                "Seguindo até um pouco a linha do Management 3.0, onde o Jurgen Appelo coloca as pessoas como uma das principais chaves de sucesso de um projeto. Ele afirma, que fazer atividades chatas vai acabar desmotivando o seu time, mais cedo ou mais tarde. Além de fazer ele perde seu final de semana.",
+                "Posso afirmar que uma das características do desenvolvimento ágil é ter a cultura da automatização e até mesmo de DevOps."
+            ],
+            "Colaboração entre Time e Stakeholders é essencial": [
+                "Colaboração com o cliente mais que negociação de contrato.",
+                "Somente essa frase já deveria ser o suficiente, já que é um dos valores do Manifesto Ágil, concorda?",
+                "Mas vamos lá, a colaboração entre time e stakeholders deve ser natural e consistente, uma vez que em Métodos Ágeis os requisitos deve ser leves e a mudança deve ser aceita naturalmente e como resultados de software entregue.",
+                "Ter o requisito leve, torna essencial ao colaboração entre as pessoas.",
+                "Se um dos dois não existem, é bem possível que você esteja vivendo no mundo das extensas documentações onde as mudanças de escopo são dolorosas ao invés de serem benéficas.",
+                "Um das principais características do desenvolvimento ágil é a colaboração entre todos os envolvidos no projeto e/ou produto."
+            ]
+        }
+    }
+}

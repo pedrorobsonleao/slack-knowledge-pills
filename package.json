@@ -1,0 +1,15 @@
+{
+  "name": "slack-knowledge-pills",
+  "version": "1.0.0",
+  "description": "The Slack Knowledge Pills",
+  "main": "index.js",
+  "author": "pedro.leao@gmail.com",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "start": "node --experimental-json-modules --experimental-specifier-resolution=node  index.js"
+  }
+}
