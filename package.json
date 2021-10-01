@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "The Slack Knowledge Pills",
   "main": "index.js",
-  "author": "pedro.leao@gmail.com",
+  "author": "Pedro Robson Leão <pedro.leao@gmail.com>",
   "license": "MIT",
   "type": "module",
+  "repository": "https://github.com/pedrorobsonleao/slack-knowledge-pills",
   "dependencies": {
     "node-fetch": "^2.6.1"
   },
